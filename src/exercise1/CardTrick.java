@@ -94,5 +94,7 @@ public class CardTrick {
         System.out.println("I enjoy reading and travelling and aspire to Software Engineer.");
 
         System.out.println();
+        System.out.println();
+        
     }
 }
